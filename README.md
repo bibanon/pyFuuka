@@ -6,10 +6,17 @@ A plan for a future API-based FoolFuuka thread archiver. Because even the archiv
 Quick and dirty notes
 -----------------------
 
-API Documentation
+[API Documentation](http://foolfuuka.readthedocs.org/en/latest/documentation.html#rest-api)
+
+Method
+------
 
 Get a thread:
 http://archive.foolz.us/_/api/chan/thread/?board=a&num=73786127
 
 Get a post:
 http://archive.foolz.us/_/api/chan/post/?board=a&num=73786130
+
+Get all thumbnails?
+
+Get all images?
