@@ -6,7 +6,7 @@ A plan for a future API-based FoolFuuka thread archiver. Because even the archiv
 Quick and dirty notes
 -----------------------
 
-[API Documentation](http://foolfuuka.readthedocs.org/en/latest/documentation.html#rest-api)
+* [API Documentation](http://foolfuuka.readthedocs.org/en/latest/documentation.html#rest-api) - [api.rst](https://github.com/FoolCode/FoolFuuka-docs/blob/master/code_guide/documentation/api.rst)
 
 Method
 ------
